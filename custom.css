@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: "Poppins", sans-serif;
+}
+
+body div.contenedor {
+  width: 960px;
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #e5e5e5;
+}
+
+html body div.contenedor h2.titulo {
+  font-family: "Poppins", sans-serif;
+  font-size: 50px;
+  margin: 0px;
+  padding: 70px 0px 16px 70px;
+}
+
+body div.contenedor p.texto {
+  color: black;
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px 363px 294px 70px;
+}
